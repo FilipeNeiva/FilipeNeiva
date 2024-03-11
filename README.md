@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Filipe</h1>
+<h3 align="center">About me</h3>
+
 - 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Vuejs, Django**
